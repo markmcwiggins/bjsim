@@ -13,8 +13,6 @@ The **groovy/** directory contains the beginning of a groovy port of the ruby co
 
 Have fun!
 
-Mark McWiggins
-
+>Mark McWiggins
 mark@pythonsoftwarewa.com
-
 425-369-8286
